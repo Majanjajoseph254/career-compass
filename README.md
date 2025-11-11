@@ -179,21 +179,4 @@ Example successful response shape:
   "industries": [{"name":"Technology","matchScore":90}, ...],
   "recommendations": [{"title":"Software Engineer","description":"...","matchScore":85}, ...]
 }
-```
 
-## Contributing
-
-Contributions welcome. Please open issues or PRs. For significant changes, open an issue first to discuss design.
-
-## License
-
-MIT License — include your preferred license text if desired.
-
----
-
-If you'd like, I can also:
-- Add a sample `.env` and start scripts
-- Add a simple GitHub Actions workflow to run lint/tests
-- Add a sample test that validates the health endpoint
-
-Tell me which of those you'd like next and I'll add it to the todo list and implement it.
